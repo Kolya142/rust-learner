@@ -1,0 +1,77 @@
+[
+    {
+        "tn": "add_two_numbers",
+        "i": "5\n3",
+        "o": "8"
+    },
+    {
+        "tn": "subtract_two_numbers",
+        "i": "10\n4",
+        "o": "6"
+    },
+    {
+        "tn": "multiply_two_numbers",
+        "i": "7\n8",
+        "o": "56"
+    },
+    {
+        "tn": "divide_two_numbers",
+        "i": "20\n5",
+        "o": "4"
+    },
+    {
+        "tn": "reverse_string",
+        "i": "hello",
+        "o": "olleh"
+    },
+    {
+        "tn": "is_palindrome",
+        "i": "madam",
+        "o": "true"
+    },
+    {
+        "tn": "fibonacci",
+        "i": "7",
+        "o": "13"
+    },
+    {
+        "tn": "factorial",
+        "i": "5",
+        "o": "120"
+    },
+    {
+        "tn": "find_max_in_list",
+        "i": "1\n5\n3\n9\n2",
+        "o": "9"
+    },
+    {
+        "tn": "count_vowels",
+        "i": "openai",
+        "o": "3"
+    },
+    {
+        "tn": "string_to_uppercase",
+        "i": "hello",
+        "o": "HELLO"
+    },
+    {
+        "tn": "remove_whitespace",
+        "i": "hello world",
+        "o": "helloworld"
+    },
+    {
+        "tn": "sort_numbers",
+        "i": "4\n2\n9\n1\n5",
+        "o": "1\n2\n4\n5\n9"
+    },
+    {
+        "tn": "convert_to_binary",
+        "i": "10",
+        "o": "1010"
+    },
+    {
+        "tn": "gcd",
+        "i": "28\n35",
+        "o": "7"
+    }
+]
